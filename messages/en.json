@@ -1,0 +1,14 @@
+{
+	"Index": {
+		"title": "Hello world!"
+	},
+	"Navbar": {
+		"home": "Home",
+		"shopNow": "Shop Now",
+		"course": "Course",
+		"events": "Events",
+		"talentHunt": "Talent Hunt",
+		"aboutUs": "About us",
+		"contact": "Contact"
+	}
+}
